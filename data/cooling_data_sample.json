@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "timestamp": "2025-05-19 13:57:37",
+      "temperature": 52,
+      "bearingWear": 0.45,
+      "flow": 5.2,
+      "dryCooling": true,
+      "machineRunning": true,
+      "reconfigurationTime": 12,
+      "downtime": 25,
+      "serviceRequest": false,
+      "status": "OK"
+    },
+    {
+      "timestamp": "2025-05-19 13:42:37",
+      "temperature": 54,
+      "bearingWear": 0.43,
+      "flow": 5.5,
+      "dryCooling": true,
+      "machineRunning": true,
+      "reconfigurationTime": 8,
+      "downtime": 15,
+      "serviceRequest": false,
+      "status": "OK"
+    },
+    {
+      "timestamp": "2025-05-19 13:27:37",
+      "temperature": 58,
+      "bearingWear": 0.42,
+      "flow": 4.8,
+      "dryCooling": true,
+      "machineRunning": true,
+      "reconfigurationTime": 10,
+      "downtime": 20,
+      "serviceRequest": false,
+      "status": "OK"
+    }
+  ]
+}
