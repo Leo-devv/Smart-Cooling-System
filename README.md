@@ -146,12 +146,5 @@ For support, please:
 - Contact the development team
 - Check the documentation
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Special thanks to the Next.js and Tailwind CSS communities
-- Shoutout to all open-source projects that made this possible
-
----
 
 Made with ❤️ by Leo-devv
